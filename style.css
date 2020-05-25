@@ -1,0 +1,14 @@
+#bottone{
+    text-align: center;
+}input{
+    border-radius: 15px;
+    background-color: aqua ;
+}p{
+    font-size: 50px;
+    color: green;
+    display: none;
+}input:hover{
+    color: red;
+    background-color: grey;
+    cursor: pointer;
+}
